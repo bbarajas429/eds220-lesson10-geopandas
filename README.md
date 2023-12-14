@@ -1,8 +1,11 @@
 # CA Thomas Fire Impact on AQI
-This repository contains an analysis of the Thomas Fire, including a raster image with the fire's perimeter and plots depicting the air quality (AQI) in affected counties.
+This repository contains an analysis of the Thomas Fire, including a raster image of the fire's perimeter and plots depicting the air quality (AQI) in affected counties.
 
 ## Background
-The Thomas Fire began late December (2017) in Ventura County and continued to affect both Santa Barbara and Ventura counties into the new year. This analysis uses raster data to produce a map of the fire's perimeter. Additionally, a simple visualization was created to demonstrated the severity of the Thomas Fire's affect on air quality (AQI) in both counties.
+The Thomas Fire began in late December (2017) in Ventura County and continued to affect both Santa Barbara and Ventura counties into the new year. This analysis uses raster data to produce a map of the fire's perimeter. Additionally, a simple visualization was created to demonstrate the severity of the Thomas Fire's effect on air quality (AQI) in both counties.
+
+## Visualizations
+Visualizations are all available within the `images` folder. There is a map of counties that were impacted by the fire, a map of the fire perimeter over a false-color image, and plots of AQI in Ventura and Santa Barbara counties.
 
 ## Data References 
 California Open Data Portal (2016), CA Geographic Boundaries [Data File] Available from: https://data.ca.gov/dataset/ca-geographic-boundaries. Access date: December 13, 2023.
